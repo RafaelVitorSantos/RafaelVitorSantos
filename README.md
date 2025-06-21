@@ -71,23 +71,16 @@ Sou movido por desafios, aprendizado constante e pela missão de agregar valor r
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 />
-<img 
-    align="left" 
-    alt="Delphi" 
-    title="Delphi" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg"
-/>
 
 <br/>
 <br/>
 
-### 🧠 Áreas de interesse
-- Automação de processos empresariais  
-- Integrações com sistemas ERP  
-- Desenvolvimento de sistemas sob medida  
-- Aplicações com foco em gestão e produtividade  
+### 🧠  Experiências
+- Criação de sistemas desktop com Delphi voltados à gestão  
+- Desenvolvimento de aplicações web com PHP + MySQL
+- Integrações entre sistemas legados e APIs modernas
+- Otimização de processos manuais via tecnologia
+- Criação de relatórios customizados e sistemas de notificações
 
 ---
 
